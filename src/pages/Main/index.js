@@ -21,7 +21,7 @@ export default function Main() {
           </CardHeader>
           <CardContent>
             <Title>Saldo disponível</Title>
-            <Description>R$ 197.611,65</Description>
+            <Description>R$ 381.497,28</Description>
           </CardContent>
           <CardFooter>
             <Annotation>
